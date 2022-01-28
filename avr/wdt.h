@@ -30,4 +30,4 @@
 #define WDIE 6
 #define WDIF 7
 
-uint16_t wdt;
+extern uint16_t wdt;
